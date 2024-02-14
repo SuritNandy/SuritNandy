@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Currently I’m a Data Analysis Student in University of Trier.
+- :telescope: Currently I’m doing Master's in Data Science from University of Trier.
 
 - :seedling: Exploring Data Analysis Tools.
 
