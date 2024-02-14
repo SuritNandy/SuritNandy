@@ -19,6 +19,7 @@ I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="
 - :seedling: Exploring Data Analysis Tools.
 
 - :zap: In my free time, I play with data by plotting visualizing different sorts of Data Analytics.
+- 👯 I’m looking to work on Data Analysis Projects
 - 📫 How to reach me: nandysurit@gmail.com
 - 😄 Pronouns: He/Him/His
 ---
