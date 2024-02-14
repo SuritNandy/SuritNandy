@@ -11,7 +11,6 @@
 <h1>Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40px" />, I'm Surit</h1>
 </div>
 
----
 
 ### :woman_technologist: About Me :
 I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -42,3 +41,4 @@ I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuritNandy&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align='left'><img "300px" height="142px" src="https://github-readme-stats.vercel.app/api?username=SuritNandy&count_private=true&theme=radical" alt="SuritNandy" />&nbsp; &nbsp;<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuritNandy&layout=compact&theme=radical"/></p>
