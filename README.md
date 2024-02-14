@@ -25,5 +25,6 @@ I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="
 - :seedling: Exploring Data Analysis Tools.
 
 - :zap: In my free time, I play with data by plotting visualizing different sorts of Data Analytics.
+---
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SuritNandy-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/surit-nandy-7b69921aa/)])
+### :hammer_and_wrench: Languages and Tools :
