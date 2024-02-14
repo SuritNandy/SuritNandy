@@ -17,4 +17,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-### :man_technologist: About Me :
+
+### :woman_technologist: About Me :
+I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Currently I’m a Data Analysis Student in University of Trier.
+
+- :seedling: Exploring Data Analysis Tools.
+
+- :zap: In my free time, I play with data by plotting visualizing different sorts of Data Analytics.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SuritNandy-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/surit-nandy-7b69921aa/)
