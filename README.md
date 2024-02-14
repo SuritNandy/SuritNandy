@@ -8,13 +8,7 @@
 </div>
 <div id="profile-views" align="center">
  <img src="https://komarev.com/ghpvc/?username=SuritNandy&style=flat-square&color=blue" alt=""/> 
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<h1>Hi <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="40px" />, I'm Surit</h1>
 </div>
 
 ---
@@ -26,6 +20,8 @@ I was a Senior Software Engineer at Honeywell Technology Solutions Lab<img src="
 - :seedling: Exploring Data Analysis Tools.
 
 - :zap: In my free time, I play with data by plotting visualizing different sorts of Data Analytics.
+- 📫 How to reach me: nandysurit@gmail.com
+- 😄 Pronouns: He/Him/His
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
